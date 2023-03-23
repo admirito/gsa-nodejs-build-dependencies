@@ -1,3 +1,9 @@
+gsa-nodejs-build-dependencies (5.0.0) jammy; urgency=medium
+
+  * Add updates for gsa version 22.4.1 stable
+
+ -- Mohammad Razavi <mrazavi64@gmail.com>  Wed, 22 Mar 2023 16:31:10 +0330
+
 gsa-nodejs-build-dependencies (4.2.0) focal; urgency=medium
 
   * Add updates for gsa version 21.4.4 stable
